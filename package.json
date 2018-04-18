@@ -1,0 +1,14 @@
+{
+  "name": "TTestlast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "^1.4.0"
+  }
+}
